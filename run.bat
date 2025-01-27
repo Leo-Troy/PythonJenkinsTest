@@ -1,2 +1,2 @@
-source venv/bin/activate
+call venv\Scripts\activate
 python main.py
